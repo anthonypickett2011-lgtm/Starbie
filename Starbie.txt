@@ -1,0 +1,9 @@
+Info: Processing symbol 'J1:Imported Parts:Display_128x64_096_I2C'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical'.
+Info: Processing symbol 'SW1:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'SW2:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'U1:Imported Parts:XIAO-ESP32-C3-SMD'.
+Info: Processing symbol 'U2:Sensor:Aosong_DHT11_5.5x12.0_P2.54mm'.
+
+
+Info: Total warnings: 0, errors: 0.

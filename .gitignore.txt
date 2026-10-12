@@ -1,0 +1,18 @@
+# KiCad backup and temporary files
+*.bak
+*-bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*~
+_autosave-*
+
+# KiCad job and execution files
+*.bck
+*.dcm
+*.net
+*.wbk
+
+# Manufacturing outputs (untrack these; regenerate them when needed)
+/gerbers/
+*.gbr
+*.drl
