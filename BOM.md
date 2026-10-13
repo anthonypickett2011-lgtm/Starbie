@@ -19,9 +19,8 @@
 | [MX Switches](https://www.amazon.com/dp/B0DSHTPSL3?psc=1&ref_=cm_sw_r_cp_ud_ct_RHTDJNH1PE3CBZVB4MSS_1) | Buttons | 4 | $0.18 | $0.72 | [Amazon](https://www.amazon.com/dp/B0DSHTPSL3?psc=1&ref_=cm_sw_r_cp_ud_ct_RHTDJNH1PE3CBZVB4MSS_1) |
 | [Keycaps](https://www.amazon.com/dp/B0FX213LZW?psc=1&ref_=cm_sw_r_cp_ud_ct_RHTDJNH1PE3CBZVB4MSS) | button caps | 4 | $0.60 | $2.40 | [Amazon](https://www.amazon.com/dp/B0FX213LZW?psc=1&ref_=cm_sw_r_cp_ud_ct_RHTDJNH1PE3CBZVB4MSS) |
 | [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW) | Resistor | 1 | $4.97 | $4.97 | [Amazon](https://www.amazon.com/dp/B0B4JFPHTW) |
-| [PCB](https://www.jlcpcb.com/) | pcb | 1 | $10.00 | $10.00 | [JLCPCB](https://www.jlcpcb.com/) |
-| **Parts subtotal** | — | — | — | **$33.87** | — |
+| **Parts subtotal** | — | — | — | **$23.87** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$33.87** | — |
+| **Total** | — | — | — | **$23.87** | — |
 
-**$3.87 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$6.13 left of the tier's funding.
